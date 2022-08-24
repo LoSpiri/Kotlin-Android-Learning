@@ -1,0 +1,7 @@
+#Sat Jan 08 00:10:48 CET 2022
+base.1=D\:\\AndroidProjects\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\AndroidProjects\\Dogglers\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
